@@ -1,0 +1,16 @@
+{
+  "name": "ai-codereview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dokome/ai-codereview.git",
+  "author": "Dokome <1098265675@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/core": "^0.2.10",
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "langchain": "^0.2.7"
+  }
+}
